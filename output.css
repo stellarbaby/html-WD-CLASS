@@ -1964,10 +1964,6 @@ video {
   padding-bottom: 80px;
 }
 
-.pl-\[100px\] {
-  padding-left: 100px;
-}
-
 .pl-\[40px\] {
   padding-left: 40px;
 }
@@ -1998,6 +1994,18 @@ video {
 
 .pt-\[80px\] {
   padding-top: 80px;
+}
+
+.pl-\[0px\] {
+  padding-left: 0px;
+}
+
+.pl-\[100px\] {
+  padding-left: 100px;
+}
+
+.pl-\[10px\] {
+  padding-left: 10px;
 }
 
 .text-left {
@@ -2642,8 +2650,12 @@ video {
     padding-left: 450px;
   }
 
-  .md\:pl-\[500px\] {
-    padding-left: 500px;
+  .md\:pl-\[700px\] {
+    padding-left: 700px;
+  }
+
+  .md\:pl-\[720px\] {
+    padding-left: 720px;
   }
 
   .md\:pl-\[80px\] {
